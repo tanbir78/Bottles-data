@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": 1,
+    "name": "Aqua Fresh Bottle",
+    "brand": "FreshLife",
+    "capacity": "1 Liter",
+    "price": 250,
+    "color": "Blue",
+    "material": "Plastic",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 2,
+    "name": "Cool Steel Bottle",
+    "brand": "SteelPro",
+    "capacity": "750 ml",
+    "price": 450,
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "image": "https://images.unsplash.com/photo-1585238342028-4b6f9b2e3c4a"
+  },
+  {
+    "id": 3,
+    "name": "Eco Glass Bottle",
+    "brand": "GreenWorld",
+    "capacity": "500 ml",
+    "price": 600,
+    "color": "Transparent",
+    "material": "Glass",
+    "image": "https://images.unsplash.com/photo-1590080875515-8c7e9b3d2f2e"
+  },
+  {
+    "id": 4,
+    "name": "Sporty Sipper",
+    "brand": "ActiveFit",
+    "capacity": "1.5 Liter",
+    "price": 550,
+    "color": "Red",
+    "material": "BPA-Free Plastic",
+    "image": "https://images.unsplash.com/photo-1616627981456-6d8d3f5b2c45"
+  },
+  {
+    "id": 5,
+    "name": "Thermo Hot & Cold Bottle",
+    "brand": "ThermoMax",
+    "capacity": "1 Liter",
+    "price": 1200,
+    "color": "Black",
+    "material": "Insulated Steel",
+    "image": "https://images.unsplash.com/photo-1620054380644-8c4e9a8f7f3a"
+  }
+]
